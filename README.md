@@ -1,4 +1,5 @@
 ### Hi there 👋
+MIS Student @Uludag University
 
 <!--
 **deniizozturk/deniizozturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
